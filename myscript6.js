@@ -72,5 +72,5 @@ console.log(myTime);
     console.log(theMultiply);
 // 2.5) i format the amount in Euro  
 const mySummer = (fm,sm) => fm + sm;
-console.log(theMultiply.reduce(mySumme));
+console.log(theMultiply.reduce(mySummer));
 
